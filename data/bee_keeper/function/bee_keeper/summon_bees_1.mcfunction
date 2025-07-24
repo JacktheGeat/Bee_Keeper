@@ -3,4 +3,4 @@ summon bee ~ ~ ~
 summon bee ~ ~ ~
 
 # cooldown of 8 seconds
-schedule function custom:bee_keeper/schedule 160
+schedule function bee_keeper:bee_keeper/schedule 160

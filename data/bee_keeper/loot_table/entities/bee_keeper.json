@@ -174,6 +174,52 @@
           ]
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "bee_keeper:poison": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "iron_sword",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "bee_keeper:poison": 3
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Bee Blade",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                "A sweet scent of honey eminates from the blade."
+              ],
+              "mode": "append"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

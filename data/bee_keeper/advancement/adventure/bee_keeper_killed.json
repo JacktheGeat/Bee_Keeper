@@ -27,7 +27,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "custom:adventure/bee_warned",
+  "parent": "bee_keeper:adventure/bee_warned",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:player_killed_entity",
