@@ -1,4 +1,4 @@
-# Summons 3 bees
+# Summons 2 bees
 summon bee ~ ~ ~
 summon bee ~ ~ ~
 

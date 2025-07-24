@@ -39,7 +39,5 @@
       }
     }
   },
-  "rewards": {
-    "function": "custom:advancement/bee_keeper_killed"
-  }
+  "rewards": {}
 }
