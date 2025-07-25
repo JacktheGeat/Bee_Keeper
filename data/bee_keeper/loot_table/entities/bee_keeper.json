@@ -206,7 +206,7 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "text": "Bee Blade",
+                "text": "Honey Stinger",
                 "italic": false
               }
             },
