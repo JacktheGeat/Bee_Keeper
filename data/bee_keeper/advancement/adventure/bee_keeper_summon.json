@@ -19,11 +19,7 @@
                 }
               },
               "location": {
-                "biomes": [
-                  "minecraft:sunflower_plains",
-                  "minecraft:flower_forest",
-                  "minecraft:meadow"
-                ]
+                "biomes": "#bee_keeper:bee_keeper_summonable"
               }
             }
           }

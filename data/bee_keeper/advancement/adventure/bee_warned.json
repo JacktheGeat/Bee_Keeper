@@ -19,7 +19,7 @@
             "type": "minecraft:player",
             "stats": [
               {
-                "type": "minecraft:broken",
+                "type": "minecraft:mined",
                 "stat": "minecraft:bee_nest",
                 "value": {
                   "min": 3
@@ -28,11 +28,7 @@
             ]
           },
           "location": {
-            "biomes": [
-              "minecraft:flower_forest",
-              "minecraft:sunflower_plains",
-              "minecraft:meadow"
-            ]
+            "biomes": "#bee_keeper:bee_keeper_summonable"
           }
         },
         "block": "minecraft:bee_nest"
